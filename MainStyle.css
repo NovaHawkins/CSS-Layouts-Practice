@@ -1,0 +1,13 @@
+body{margin:0}
+
+.sectionCont{
+    width:95vw;
+    height:90vh;
+
+    background-color:cornflowerblue;
+    border:1px solid black;
+
+    align-self: center;
+
+    padding:33px;
+}

@@ -1,0 +1,21 @@
+#contA{
+    display:grid;
+    grid-template-columns:auto 70% auto;
+    grid-template-rows:auto 80% auto;
+}
+
+.contA-box{
+    border:1px solid black;
+    text-align:center;
+    background-color:white;
+}
+
+#head{
+    grid-column-start:1;
+    grid-column-end:4;
+}
+
+#foot{
+    grid-column-start:1;
+    grid-column-end:4;
+}
